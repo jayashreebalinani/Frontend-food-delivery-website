@@ -1,0 +1,200 @@
+.img{
+    width: 50%;
+
+}
+.img1{
+  padding-top: 70px;
+    padding-left: 100px;
+    height: 150px;
+    width:300px;
+    
+}
+.login{
+    border: 1px white;
+    font-size: 15px;
+    background-color: white;
+    margin-top: 110px;
+    margin-left: 270px;
+}
+.signup{
+       background-color: black;
+       font-size: 15px;
+       color: white;
+
+}
+.k{
+  font-size: 20px;
+  color: rgb(94, 105, 114);
+  padding-left: 130px;
+}
+.k1{
+  font-size: 15px;
+  color: rgb(147, 157, 165);
+  padding-left: 130px;
+
+}
+.v{
+  margin-top: 10px;
+  margin-left: 130px;
+}
+.v1{
+  font-size: 15px;
+  color: rgb(81, 85, 88);
+  padding-left: 130px;
+  font-weight: 500;
+  float: left;
+}
+.v2{
+  font-size: 15px;
+  color: rgb(147, 154, 159);
+  float: left;
+  font-weight: 500;
+
+
+}
+.v3{
+  font-size: 15px;
+  color: rgb(81, 85, 88);
+  
+  font-weight: 500;
+  float: left;
+}
+#b1{
+  padding-right: 130px;
+  margin-left: 130px;
+
+}
+
+
+
+
+.div1{
+    width: 33%;
+    height: 400px;
+    background-color:rgb(53, 45, 30);
+    align-items: flex-end;
+}
+.size{
+    height: 200px;
+    padding-left: px;
+
+}
+#he{
+    color: white;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 30px;
+    
+
+}
+#pe{
+    color: rgb(224, 204, 204);
+    padding-left: 10px;
+    font-size: 15px;
+    padding-bottom: 100px;
+}
+
+.div2{
+    width: 33%;
+    height: 400px;
+    background-color:rgb(53, 45, 30);
+}
+.grid-container {
+    display: grid;
+    grid: 400px / auto auto auto;
+    background-color:rgb(235, 230, 223);
+    height: 400px;
+  }
+  
+  .grid-container > div {
+    background-color:rgb(53,45,30);
+    text-align: center;
+   
+    padding-bottom: 30px;
+  }
+.align{
+  height: 550px;
+
+}
+.j{
+  margin-left: 170px;
+  margin-top: 160px;
+}
+.j1{
+  margin-left: 150px;
+}
+.c{
+  margin-left: 170px;
+  margin-top: 20px;
+  font-size: 20px;
+  color: rgb(94, 105, 114);
+
+}
+.button1{
+  
+  
+  width: 10%;
+  appearance: button;
+  background-color:white;
+  border-radius: 10px;
+  margin: 10px;
+  height: 50px;
+  font-size: 15px;
+  margin-left: 170px;
+  background-color: black;
+  float: left;
+}
+.button2{
+  width: 10%;
+ 
+  appearance: button;
+  background-color:white;
+  border-radius: 10px;
+  margin: 10px;
+  height: 50px;
+  font-size: 15px;
+ float: left;
+  background-color: black;
+
+}
+.dark{
+  width: 100%;
+  height: 500px;
+  background-color: rgb(0, 0, 0);
+  color:white;
+  font-weight: 300;
+  display: grid;
+  grid: 300px / auto auto auto;
+  padding: 10px;
+  gap: 10px;
+}
+.grid-container1 {
+  width: 100%;
+  display: grid;
+  grid: 300px / auto auto auto auto;
+  background-color:rgb(1, 1, 1);
+  height: 400px;
+  float: left;
+  
+}
+
+.grid-container2{
+  background-color:rgb(0, 0, 0);
+  
+  color: white;
+  font-weight: 600;
+ 
+  padding-bottom: 30px;
+}
+#font1{
+  color: rgb(135, 129, 129);
+  padding-top: 50px;
+  font-size: 15px;
+  margin-left: 150px;
+}
+#font2{
+  color: white;
+  margin-left: 150px;
+  font-weight: 500;
+
+}
